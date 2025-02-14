@@ -95,5 +95,7 @@
         "stack": "cpp"
     },
     "C_Cpp.default.configurationProvider": "maxmitti.cmake-tools-fork",
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.legacyCompilerArgsBehavior": true,
+    "C_Cpp.default.compilerPath": ""
 }

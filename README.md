@@ -18,3 +18,17 @@ Use a popular injector (Xenos/Extreme Injector/Etc.) and inject into rdr2.exe
 ![image](https://github.com/YimMenu/HorseMenu/assets/24372625/e1395e75-7feb-4c4a-9286-bd774e2aaeca)
 
 
+Main Branch:
+YimMenu / HorseMenu
+https://github.com/YimMenu/HorseMenu
+
+Updated Styling Idea:
+DeadlineEm
+https://github.com/Deadlineem
+
+Various menu fixes and BAT file creation:
+GrymRpr / GrymsArchive
+https://github.com/GrymRpr/HorseMenu
+
+
+
